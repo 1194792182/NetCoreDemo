@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWebTemplate", "NetCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreMvcMovie", "NetCoreMvcMovie\NetCoreMvcMovie.csproj", "{E12C6724-E82C-4AD4-99A1-20A7B460DAA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreApiAndMvc", "NetCoreApiAndMvc\NetCoreApiAndMvc.csproj", "{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreApiAndMvc", "NetCoreApiAndMvc\NetCoreApiAndMvc.csproj", "{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWebApiWithMemoryDb", "NetCoreWebApiWithMemoryDb\NetCoreWebApiWithMemoryDb.csproj", "{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
