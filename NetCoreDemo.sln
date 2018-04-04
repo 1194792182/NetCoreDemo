@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreConsoleApp", "NetCoreConsoleApp\NetCoreConsoleApp.csproj", "{D9F15515-926D-4BD5-ABD3-23B4A586A2BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreEmptyWeb", "NetCoreEmptyWeb\NetCoreEmptyWeb.csproj", "{EC3183A4-5385-44C7-B68E-8CA0B394F980}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWebApi", "NetCoreWebApi\NetCoreWebApi.csproj", "{66490BAA-388F-4CDC-AE95-63E52028AAA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWebTemplate", "NetCoreWebTemplate\NetCoreWebTemplate.csproj", "{455222E6-9108-48CE-A3C3-89BE5888832F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreMvcMovie", "NetCoreMvcMovie\NetCoreMvcMovie.csproj", "{E12C6724-E82C-4AD4-99A1-20A7B460DAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreApiAndMvc", "NetCoreApiAndMvc\NetCoreApiAndMvc.csproj", "{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F15515-926D-4BD5-ABD3-23B4A586A2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F15515-926D-4BD5-ABD3-23B4A586A2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F15515-926D-4BD5-ABD3-23B4A586A2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F15515-926D-4BD5-ABD3-23B4A586A2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3183A4-5385-44C7-B68E-8CA0B394F980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3183A4-5385-44C7-B68E-8CA0B394F980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3183A4-5385-44C7-B68E-8CA0B394F980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3183A4-5385-44C7-B68E-8CA0B394F980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66490BAA-388F-4CDC-AE95-63E52028AAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66490BAA-388F-4CDC-AE95-63E52028AAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66490BAA-388F-4CDC-AE95-63E52028AAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66490BAA-388F-4CDC-AE95-63E52028AAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455222E6-9108-48CE-A3C3-89BE5888832F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455222E6-9108-48CE-A3C3-89BE5888832F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455222E6-9108-48CE-A3C3-89BE5888832F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455222E6-9108-48CE-A3C3-89BE5888832F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E12C6724-E82C-4AD4-99A1-20A7B460DAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12C6724-E82C-4AD4-99A1-20A7B460DAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12C6724-E82C-4AD4-99A1-20A7B460DAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12C6724-E82C-4AD4-99A1-20A7B460DAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0AF3C1-B7B1-46B9-9527-6E7108CBCB81}
+	EndGlobalSection
+EndGlobal
