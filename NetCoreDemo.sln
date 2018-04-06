@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreMvcMovie", "NetCoreM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreApiAndMvc", "NetCoreApiAndMvc\NetCoreApiAndMvc.csproj", "{BC1A0381-932C-468B-A864-C8BC9FA2D6BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWebApiWithMemoryDb", "NetCoreWebApiWithMemoryDb\NetCoreWebApiWithMemoryDb.csproj", "{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWebApiWithMemoryDb", "NetCoreWebApiWithMemoryDb\NetCoreWebApiWithMemoryDb.csproj", "{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesMovie", "RazorPagesMovie\RazorPagesMovie.csproj", "{20BF57BE-F6BA-4A5D-AB8F-DB350E061046}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EBAE63E-F4E6-4495-B5DE-FA1911EE6D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20BF57BE-F6BA-4A5D-AB8F-DB350E061046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BF57BE-F6BA-4A5D-AB8F-DB350E061046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BF57BE-F6BA-4A5D-AB8F-DB350E061046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BF57BE-F6BA-4A5D-AB8F-DB350E061046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
